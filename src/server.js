@@ -13,7 +13,7 @@ app.set('view engine', 'ejs')
 
 //khai bao route
 app.get('/', (req, res) => {
-  res.send('Hello World! by Duy')
+  res.send('Hello World! by Duy & nodemon')
 })
 
 app.get('/xyz', (req, res) => {

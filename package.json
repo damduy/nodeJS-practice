@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "First time with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damduy/nodeJS-practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Duy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damduy/nodeJS-practice/issues"
+  },
+  "homepage": "https://github.com/damduy/nodeJS-practice#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
